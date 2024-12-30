@@ -31,7 +31,7 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, com experiência em c
 ## 🛠️ Habilidades Técnicas
 
 **💻 Linguagens de Programação:**  
-- C, C#, C++, TypeScript, JavaScript, Java, SQL, Python, Go, Kotlin, Swift, Rust.
+- C, C#, C++, TypeScript, JavaScript, Java, SQL, Python.
 
 **🖥️ Sistemas Operacionais:**  
 - Windows 10/11, Linux.
