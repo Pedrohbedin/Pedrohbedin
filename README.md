@@ -19,15 +19,6 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, com experiência em c
 
 ---
 
-## 💼 Experiência Profissional
-
-### Desenvolvedor Full-Stack *(Julho 2024 - Dezembro 2024)*
-- 🌐 Desenvolvimento de aplicações web escaláveis e responsivas.
-- 🤖 Implementação de inteligência artificial para busca avançada.
-- 🎙️ Transcrição e processamento de arquivos de áudio para sistemas inteligentes.
-
----
-
 ## 🛠️ Habilidades Técnicas
 
 **💻 Linguagens de Programação:**  
